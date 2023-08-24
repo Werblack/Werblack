@@ -1,4 +1,4 @@
-- 👋 Olá! Eu sou o Werblack, um estudante formado em Análise e Desenvolvimento de Sistemas apaixonado por programação e tecnologia. Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades como desenvolvedor.
+- 👋 Olá! Eu sou o Samuel, um estudante formado em Análise e Desenvolvimento de Sistemas apaixonado por programação e tecnologia. Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades como desenvolvedor.
 
 - 👀 Desenvolvimento de Software
 Programação Web (Front-end e Back-end)
